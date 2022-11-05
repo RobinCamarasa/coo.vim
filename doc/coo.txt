@@ -63,5 +63,5 @@ Section 2: Copy operator                              *copy-operator*
 Copy |operator| that handle the clipboard
 Note: that the |clipboard| option must be set to |unnamed|
 
-                                                      *g/*
+                                                      *gy*
 gy{motion}              Yank {motion} in the clipboard
