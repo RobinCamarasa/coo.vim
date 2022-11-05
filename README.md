@@ -1,4 +1,5 @@
-# Contextual Text Objects (COO)
+# Custom Operators Organizer (COO)
+
 
 The main idea of this plugin is to provide the user custom operators.
 
