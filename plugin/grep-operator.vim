@@ -12,7 +12,7 @@ function! s:GrepOperator(type)
         return
     endif
 
-    silent execute "grep! -R " . shellescape(@@) . " ."
+    silent execute "grep! -R " . shellescape(@@) . " . --exclude tags"
     copen
     let @@ = saved_register
     redraw!

@@ -1,5 +1,4 @@
-*coo.txt* functionality for Custom Operator Organizer
-Organiser.
+*coo.txt* functionality for Custom Operator Organizer.
 
 Author:  Robin Camarasa <http://robincamarasa.github.io>
 
